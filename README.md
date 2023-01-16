@@ -1,2 +1,2 @@
-# Azmi_Portfolio
+# lab-agile-planning
 Data and Analytics portfolio
